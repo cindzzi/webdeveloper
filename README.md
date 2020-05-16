@@ -4,6 +4,6 @@ This is a 47h online bootcamp for all levels, and includes HTML, CSS, JS, NODE a
 web developement due to the 6 month in class data analytics bootcamp that I did in Rice University. 
 The reason I am taking this bootcamp is because I really enjoyed doing web pages so I decided to learn more during my 
 quaratine time. 
-I will put all the assignments solutions that I am going to do and also a note saying how I did on it. 
+I will put all the assignments solutions that I am going to do. 
 
 Starting Date: 05/12/2020
